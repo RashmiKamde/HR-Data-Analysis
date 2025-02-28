@@ -1,5 +1,5 @@
 # Work Flow Summary
-1️⃣ Clean Data in Google Colab
-2️⃣ Save as CSV (For Verification)
-3️⃣ Connect to SQL Server using SQLAlchemy
-4️⃣ Upload Cleaned Data Using .to_sql()
+1️ Clean Data in Google Colab
+2️ Save as CSV 
+3  Upload Cleaned Data (CSV) to SQL Server 
+4 Data Anlysis performed in sql server
